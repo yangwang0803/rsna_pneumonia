@@ -1,0 +1,24 @@
+# 1
+ResNet
+
+IOU_THRESHOLD = 0.3
+BATCH_SIZE = 16
+IMAGE_SIZE = 320
+N_EPOCH = 5
+
+Epoch 4/5
+1445/1445 [==============================] - 640s 443ms/step - loss: 0.0689 - iou_segmentation: 0.0594 - val_loss: 0.0653 - val_iou_segmentation: 0.0599
+Epoch 5/5
+1445/1445 [==============================] - 641s 444ms/step - loss: 0.0661 - iou_segmentation: 0.0627 - val_loss: 0.0679 - val_iou_segmentation: 0.0535
+
+Probability threshold= 0.25
+False positive cases= 539
+True positive cases= 431
+Overall evaluation score= 0.10015576323051506
+
+Probability threshold= 0.3
+False positive cases= 402
+True positive cases= 383
+Overall evaluation score= 0.09818908537711449
+
+# 2
