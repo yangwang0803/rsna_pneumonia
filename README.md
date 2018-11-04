@@ -1,6 +1,6 @@
 # Kaggle - RSNA Pneumonia Detection Challenge 
 
-Rank 49 solution of the Kaggle featured competetition [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
+Rank 49 (silver medal) solution of the Kaggle featured competetition [RSNA Pneumonia Detection Challenge](https://www.kaggle.com/c/rsna-pneumonia-detection-challenge)
 
 
 ## Model overview
